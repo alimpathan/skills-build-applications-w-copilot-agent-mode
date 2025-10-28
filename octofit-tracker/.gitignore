@@ -1,0 +1,14 @@
+# Ignore Python virtual environments and common artifacts
+backend/venv/
+**/__pycache__/
+*.py[cod]
+*.sqlite3
+env/
+.env
+*.egg-info/
+
+# Node modules for frontend
+frontend/node_modules/
+
+# VS Code
+.vscode/
